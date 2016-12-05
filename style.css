@@ -1,0 +1,16 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color:rgb(66,134,244)
+}
+h2 {
+  font-family: cursive;
+    color:red;
+}  
+h1 { color:white;
+}
+
+  .president { 
+    border:15px ;
+    border-style:ridge;
+    border-color: darkgoldenrod
+  }
