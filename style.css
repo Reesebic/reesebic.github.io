@@ -12,5 +12,9 @@ h1 { color:white;
   .image { 
     border:15px ;
     border-style:ridge;
-    border-color: darkgoldenrod
+    border-color: darkgray
+  }
+p {
+  font-size: 20;
+  font-family: "Times New Roman", Times, serif;
   }
